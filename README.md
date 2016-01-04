@@ -1,2 +1,4 @@
 # hello-people
-This is Ishu personal GitHub repository
+This is my personal GitHub repository
+
+Thank You for watching!
